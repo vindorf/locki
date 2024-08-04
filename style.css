@@ -26,3 +26,10 @@ input, button {
     margin: 5vmin;
     text-align: center;
 }
+
+#data {
+    display: flex;
+    justify-content: center;
+    border: solid 1px;
+    margin: 5vmin;
+}
