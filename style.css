@@ -15,6 +15,7 @@ h1 {
 }
 
 input, button {
+    width: 30vmin;
     height: 3vmin;
     outline-style: none;
 }
