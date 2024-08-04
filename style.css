@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    background-color: aliceblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+#input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4vmin;
+}
+
+input, button {
+    height: 3vmin;
+    outline-style: none;
+}
+
+#output {
+    height: 5vmin;
+    border: solid 1px;
+    margin: 5vmin;
+    text-align: center;
+}
